@@ -1,15 +1,15 @@
 <div style="display: flex; justify-content: space-evenly; align-items:center; padding:1em; gap:10px;">
-    <img src="assets/sct.png" alt="Image 1" height='40'>
-    <img src="assets/ras.png" alt="Image 2" height='40'>
-    <img src="assets/ieee.png" alt="Image 3" height='40'>
+    <img src="./assets/sct.png" alt="Image 1" height='40'>
+    <img src="./assets/ras.png" alt="Image 2" height='40'>
+    <img src="./assets/ieee.png" alt="Image 3" height='40'>
 </div>
 
-### IEEE RAS SCT SBC (IEEE Robotics and Automation Society Sree Chitra Thirunal College Student Branch Chapter)  
+# IEEE RAS SCT SBC (IEEE Robotics and Automation Society Sree Chitra Thirunal College Student Branch Chapter)  
 
-#### About Us  
+## About Us  
 Welcome to the GitHub repository of the IEEE RAS SCT SBC! We are the Robotics and Automation Society Student Branch Chapter of Sree Chitra Thirunal College of Engineering, affiliated with the IEEE Robotics and Automation Society. Our organization is dedicated to promoting robotics and automation technology and fostering a community of passionate learners and innovators in this field.  
 
-#### Leads 2023-2024
+## Leads 2023-2024
 
 <div style="display:flex; gap:1em; flex-wrap:wrap; align-items:center; justify-content:space-evenly;">
 <div style="display : flex; flex-direction:column; width:fit-content; padding:1em; align-items:center; gap:.4em;">
@@ -29,7 +29,7 @@ Welcome to the GitHub repository of the IEEE RAS SCT SBC! We are the Robotics an
 </div>
 </div>
 
-#### SubCom
+## SubCom
 
 <div style="display:flex; gap:1em; flex-wrap:wrap; align-items:center; justify-content:space-evenly;">
 <div style="display : flex; flex-direction:column; width:fit-content; padding:1em; align-items:center; gap:.4em;">
@@ -49,7 +49,7 @@ Welcome to the GitHub repository of the IEEE RAS SCT SBC! We are the Robotics an
 </div>
 </div>
 
-### Contact Us
+## Contact Us
 If you have any questions, ideas, or just want to say hello, feel free to get in touch with us:  
 
 Email: rassctsb23@gmail.com  
