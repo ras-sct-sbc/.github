@@ -21,12 +21,10 @@ Welcome to the GitHub repository of the IEEE RAS SCT SBC! We are the Robotics an
 | [Adhithya Shanil](https://www.linkedin.com/in/adhithya-shanil-62b774252) | [Yohann Chandy](https://www.linkedin.com/in/yohann-chandy-6b6403271) | [Harisankar Prasad](https://www.linkedin.com/in/harisankar-prasad-4593a3270) |
 | Designer | Content Writer | Video Editor |  
 
-
-
 ## Contact Us
 
 If you have any questions, ideas, or just want to say hello, feel free to get in touch with us:  
 
-Email: rassctsb23@gmail.com  
+Email: <rassctsb23@gmail.com>  
 
 Thank you for visiting our GitHub repository. We look forward to collaborating with you and advancing the exciting field of robotics and automation together.
