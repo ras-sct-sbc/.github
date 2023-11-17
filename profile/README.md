@@ -16,10 +16,10 @@ Welcome to the GitHub repository of the IEEE RAS SCT SBC! We are the Robotics an
 
 ## SubCom
 
-| ![Adhithya Shanil](https://media.licdn.com/dms/image/D4D03AQFtKtdzxNrJXQ/profile-displayphoto-shrink_200_200/0/1664799782538?e=1700697600&v=beta&t=c-3eGwoFxP6jCnUKRqlusMgG2Ue4SQXF8j_HGHW7Exc) | ![Yohann Chandy](https://media.licdn.com/dms/image/D5603AQEgsTIDJoVF5w/profile-displayphoto-shrink_200_200/0/1683645520492?e=1700697600&v=beta&t=4fXAUQuXIVWjTnEV51OdOrnasHxm8239piCaNf95jb0) | ![Harisankar Prasad](https://media.licdn.com/dms/image/D4D03AQGHt9YKyzXMuQ/profile-displayphoto-shrink_200_200/0/1680368585713?e=1700697600&v=beta&t=Ji4ID7upbdLJ0oMo14udFelNxJje7icRlI8hSrdxdgI) |
-| --- | --- | --- |
-| [Adhithya Shanil](https://www.linkedin.com/in/adhithya-shanil-62b774252) | [Yohann Chandy](https://www.linkedin.com/in/yohann-chandy-6b6403271) | [Harisankar Prasad](https://www.linkedin.com/in/harisankar-prasad-4593a3270) |
-| Designer | Content Writer | Video Editor |  
+![Yohann Chandy](https://media.licdn.com/dms/image/D5603AQEgsTIDJoVF5w/profile-displayphoto-shrink_200_200/0/1683645520492?e=1700697600&v=beta&t=4fXAUQuXIVWjTnEV51OdOrnasHxm8239piCaNf95jb0) | ![Harisankar Prasad](https://media.licdn.com/dms/image/D4D03AQGHt9YKyzXMuQ/profile-displayphoto-shrink_200_200/0/1680368585713?e=1700697600&v=beta&t=Ji4ID7upbdLJ0oMo14udFelNxJje7icRlI8hSrdxdgI) |
+| --- | --- |
+ | [Yohann Chandy](https://www.linkedin.com/in/yohann-chandy-6b6403271) | [Harisankar Prasad](https://www.linkedin.com/in/harisankar-prasad-4593a3270) |
+ | Content Writer | Video Editor |  
 
 ## Contact Us
 
